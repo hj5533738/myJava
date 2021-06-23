@@ -1,6 +1,5 @@
 package com.msb.test01;
 
-import javax.xml.soap.Detail;
 import java.util.Scanner;
 
 public class Test {
